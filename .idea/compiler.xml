@@ -25,6 +25,8 @@
         <module name="simplertspclient" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="simplertspclient" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
-
